@@ -36,7 +36,7 @@ Before conducting the analysis, the dataset underwent quality checks to ensure c
 ## Ad Clicks Analysis:
 All histograms related to clicks and conversions show somewhat symmetrical distributions, indicating relatively even distribution of these metrics.
 ![Alt_text](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20ad%20conversions.png)
-
+![kuch_bhi](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/adwords%20ad%20conversions.png)
 
 
 
