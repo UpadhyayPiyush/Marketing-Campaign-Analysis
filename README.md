@@ -5,15 +5,17 @@ The marketing agency involved in this analysis aims to maximize ROI for its clie
 
 ## Data Overview
 The dataset contains 365 records corresponding to each day in 2019. Key features include:
-
-Date: The date of data collection.
-Facebook Ad Campaign: Information on clicks, conversions, and ad costs for Facebook.
-AdWords Ad Campaign: Similar data for the AdWords platform.
+- Date: The date of data collection.
+- Facebook Ad Campaign: Information on clicks, conversions, and ad costs for Facebook.
+- AdWords Ad Campaign: Similar data for the AdWords platform.
+  
 Key tables in the dataset:
+- Facebook Ad Campaign
+- AdWords Ad Campaign
 
-Facebook Ad Campaign
-AdWords Ad Campaign
 Before conducting the analysis, the dataset underwent quality checks to ensure completeness and consistency.
+
+# Executive Summary 
 
 ## Overview of Findings
 Facebook Ads outperform AdWords: The average number of conversions from Facebook ads is significantly higher than that of AdWords, with a mean conversion rate of 11.74 compared to 5.98 for AdWords.
@@ -29,4 +31,20 @@ AdWords Optimization Needed: While AdWords contributes to conversions, its effec
 Budget Allocation: To maximize ROI, allocate more budget to months with historically lower CPC values, like May and November, and optimize campaigns during periods of high CPC, such as February.
 Weekday Focus: Concentrate ad spend and efforts on Mondays and Tuesdays, consistently showing higher conversion rates.
 
-[Visit](https://imgs.search.brave.com/FUrGF3liqk1B5pxb5n8UgnMggLOxd0B1mj16ZNIUCWo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQw/NDc0OTA0MC9waG90/by9odW1hbi12cy1y/b2JvdC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9SWpsR1N2/U3FxOC1HLU16YzZD/Rnh3SUZ6akFrNmNv/Q2x1N1NSWlEyWGdl/VT0)
+# Insights Deep Dive
+
+## Ad Clicks Analysis:
+
+All histograms related to clicks and conversions show somewhat symmetrical distributions, indicating relatively even distribution of these metrics.
+
+
+
+
+
+
+
+
+
+
+
+
