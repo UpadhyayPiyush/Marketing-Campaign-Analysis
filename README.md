@@ -55,15 +55,15 @@ A strong positive correlation (0.87) between Facebook ad clicks and sales indica
 
  ## Predictive Modeling:
  A linear regression model showed that Facebook ad clicks explain 76.35% of the variance in conversions. This predictive capability helps in planning and optimizing future campaigns.
- ![reg_analysis](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20regression.png)
+![reg_analysis](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20regression.png)
 
  ## Trends (CTR and Conversion Rate):
  - **Weekday Performance:** Conversions are consistent, but Mondays and Tuesdays show higher conversion rates, indicating increased user engagement at the beginning of the week.
-   ![Weekly_conversion](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20weekly%20conversion.png)
+![Weekly_conversion](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20weekly%20conversion.png)
 - **Monthly Conversion Trends:** Fluctuations in conversion rates were observed in February, April, May, June, August, and November, possibly due to seasonal trends or changes in marketing strategies.
-  ![Monthly_Conversion](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20monthly%20conversion.png)
+![Monthly_Conversion](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20monthly%20conversion.png)
 - **CPC Trends:** May and November show lower CPC values, suggesting periods of higher advertising effectiveness, while February sees higher CPCs.
-  ![CPC Trends](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20monthly%20cpc.png)
+![CPC Trends](https://github.com/UpadhyayPiyush/Marketing-Campaign-Analysis/blob/main/images/fb%20monthly%20cpc.png)
 
   ## Recommendations
   Based on the findings from this analysis, the following recommendations are provided for future ad campaigns:
